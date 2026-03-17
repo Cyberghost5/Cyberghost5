@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adebisi Covenant</h1>
 <h3 align="center">A passionate full stack developer from Nigeria</h3>
 
-<p align="left"> <a href="https://twitter.com/harkone_designs" target="blank"><img src="https://img.shields.io/twitter/follow/harkone_designs?logo=twitter&style=for-the-badge" alt="harkone_designs" /></a> </p>
-
 - 🔭 I’m building [aptLearn](https://aptlearn.io)
 
 - 👨‍💻 All of my projects are available at [https://harkone.com.ng](https://harkone.com.ng)
